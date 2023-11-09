@@ -119,5 +119,6 @@ mongoose.connect(MONGODB_URI).then(() => {
     console.log(err)
 })
 
+
 // #00695c
 //   "start": "SET NODE_ENV=production&SET MONGO_USER=zameeralucknowi& SET MONGO_PASSWORD=zameer2399& SET MONGO_DATABASE=shop& SET STRIPE_KEY=sk_test_tR3PYbcVNZZ796tH88S4VQ2u& node app.js",
